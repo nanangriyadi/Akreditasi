@@ -10,7 +10,7 @@ include 'header.php';
         <h2 class="font-swash text-4xl font-bold drop-shadow-[1px_1px_3px_rgba(5,5,141,0.7)]">
             Tentang <span class="text-green-500">Kami</span>
         </h2>
-        <h3 class="text-2xl font-semibold mt-2 text-gray-700">Kelompok I</h3>
+        <h3 class="text-2xl font-semibold mt-2 text-gray-700">SLB Negeri Badegan Ponorogo</h3>
         <div class="w-20 h-1 bg-green-500 mx-auto mt-4 rounded-full"></div>
     </div>
 
