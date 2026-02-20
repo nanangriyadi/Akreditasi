@@ -29,7 +29,7 @@ $team = [
 'name' => 'NUR ALFIN LAILA, S.Pd',
 'nip' => 'NIP. -',
 'role' => 'Wali Kelas 10 & 12',
-'photo' => 'assets/img/team4.jpg',
+'photo' => 'assets/img/team3.jpg',
 'color' => 'from-orange-400 to-orange-600',
 ],
 ];
