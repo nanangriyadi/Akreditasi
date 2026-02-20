@@ -15,14 +15,14 @@ $team = [
 'name' => 'TRI NOVEMBRI J, S.Pd',
 'nip' => 'NIP. 197111032022212003',
 'role' => 'Wali Kelas 6',
-'photo' => 'assets/img/team2.jpg',
+'photo' => 'assets/img/tri nov.jpg',
 'color' => 'from-sky-400 to-sky-600',
 ],
 [
 'name' => 'NUR RISKA P, S.Pd',
 'nip' => 'NIP. 199201152022212020',
 'role' => 'Wali Kelas VII',
-'photo' => 'assets/img/team3.jpg',
+'photo' => 'assets/img/riska.jpg',
 'color' => 'from-violet-400 to-violet-600',
 ],
 [
