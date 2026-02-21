@@ -7,16 +7,16 @@ include 'header.php';
  */
 $telaahDokumen = [
     // --- INDIKATOR 1 ---
-    ['no' => 1, 'subIndikator' => '', 'name' => 'KOMPONEN 1: PERKEMBANGAN BELAJAR & EMOSI', 'link' => ''],
-    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '1. Catatan Perkembangan Kemajuan Belajar', 'link' => '#'],
-    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '2. Catatan Perkembangan Non Akademik', 'link' => '#'],
-    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '3. Hasil Observasi 3-5 Menit', 'link' => '#'],
-    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '4. Bahasa Tubuh Guru', 'link' => '#'],
+    ['no' => 1, 'subIndikator' => '', 'name' => 'KOMPONEN 1: PERKEMBANGAN BELAJAR & EMOSI', 'link' => 'assets/data/1.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '1. Catatan Perkembangan Kemajuan Belajar', 'link' => 'assets/data/2.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '2. Catatan Perkembangan Non Akademik', 'link' => 'assets/data/3.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '3. Hasil Observasi 3-5 Menit', 'link' => 'assets/data/4.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.1', 'name' => '4. Bahasa Tubuh Guru', 'link' => 'assets/data/5.pdf'],
     
-    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '1. Catatan Perilaku Murid dan Rencana Dukungan Sosial Emosional', 'link' => '#'],
-    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '2. Portofolio Perkembangan Emosi atau Perilaku Murid', 'link' => '#'],
-    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '3. Bukti Visual Seperti Papan Emosi, Reward Board', 'link' => '#'],
-    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '4. Chart Perilaku Positif', 'link' => '#'],
+    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '1. Catatan Perilaku Murid dan Rencana Dukungan Sosial Emosional', 'link' => 'assets/data/6.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '2. Portofolio Perkembangan Emosi atau Perilaku Murid', 'link' => 'assets/data/7.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '3. Bukti Visual Seperti Papan Emosi, Reward Board', 'link' => 'assets/data/8.pdf'],
+    ['no' => 1, 'subIndikator' => '1.1.2', 'name' => '4. Chart Perilaku Positif', 'link' => 'assets/data/9.pdf'],
 
     ['no' => 1, 'subIndikator' => '1.1.3', 'name' => '1. RPP/PPI: Ada Strategi Refleksi, Afirmasi, Atau Fokus Pada Proses', 'link' => '#'],
     ['no' => 1, 'subIndikator' => '1.1.3', 'name' => '2. Catatan Formatif: Penilaian Berbasis Kemajuan Individual', 'link' => '#'],
